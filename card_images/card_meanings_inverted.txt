@@ -1,0 +1,78 @@
+Inverted, The Fool represents recklessness, being taken advantage of, inconsideration.
+Inverted, The Magician represents trickery, illusions, being out of touch.
+Inverted, The High Priestess represents a lack of center, lost inner voice, repressed feelings.
+Inverted, The Empress represents dependence, smothering, emptiness, nosiness.
+Inverted, The Emperor represents tyranny, rigidity, coldness.
+Inverted, The Heirophant represents rebellion, subversiveness, new approaches.
+Inverted, The Lovers represent loss of balance, one-sidedness, disharmony.
+Inverted, The Chariot represents lack of control, lack of direction, aggression.
+Inverted, Strength represents self doubt, weakness, insecurity.
+Inverted, The Hermit represents loneliness, isolation, losing your way.
+Inverted, The Wheel of Fortune represents loss of control, clinging to control, bad luck.
+Inverted, Justice represents dishonesty, unaccountability, unfairness.
+Inverted, The Hanged Man represents stalling, needless sacrifice, fear of sacrifice.
+Inverted, Death represents fear of change, holding on, stagnation, decay.
+Inverted, The Sun represents negativity, depression, sadness.
+Inverted, The Devil represents freedom, release, restoring control.
+Inverted, The Tower represents disaster avoided, delayed disaster, fear of suffering.
+Inverted, The Star represents faithlessness, discouragement, insecurity.
+Inverted, The Moon represents confusion, fear, misinterpretation.
+Inverted, The Sun represents negativity, depression, sadness.
+Inverted, Judgement represents lack of self awareness, doubt, self loathing.
+Inverted, The World represents incompletion, lack of closure.
+Inverted, The Ace of Cups represents emotional loss, blocked creativity, emptiness.
+Inverted, The Two of Cups represents imbalance, broken communication, tension.
+Inverted, The Three of Cups represents overindulgence, gossip, isolation.
+Inverted, The Four of Cups represents sudden awareness, choosing happiness, acceptance.
+Inverted, The Five of Cups represents acceptance, moving on, finding peace.
+Inverted, The Six of Cups represents moving forward, leaving home, independence.
+Inverted, The Seven of Cups represents lack of purpose, diversion, confusion.
+Inverted, The Eight of Cups represents avoidance, fear of change, fear of loss.
+Inverted, The Nine of Cups represents lack of inner joy, smugness, dissatisfaction.
+Inverted, The Ten of Cups represents shattered dreams, broken family, domestic disharmony.
+Inverted, The Page of Cups represents emotional immaturity, insecurity, disappointment.
+Inverted, The Knight of Cups represents moodiness, disappointment.
+Inverted, The Queen of Cups represents martyrdom, insecurity, dependence.
+Inverted, The King of Cups represents coldness, moodiness, bad advice.
+Inverted, The Ace of Pentacles represents lost opportunity, missed chance, bad investment.
+Inverted, The Two of Pentacles represents loss of balance, disorganization, being overwhelmed.
+Inverted, The Three of Pentacles represents lack of teamwork, disorganization, group conflict.
+Inverted, The Four of Pentacles represents greediness, stinginess, possessiveness.
+Inverted, The Five of Pentacles represents recovery, charity, improvement.
+Inverted, The Six of Pentacles represents strings attached, stinginess, power and domination.
+Inverted, The Seven of Pentacles represents work without results, distractions, lack of rewards.
+Inverted, The Eight of Pentacles represents lack of passion, uninspired, no motivation.
+Inverted, The Nine of Pentacles represents reckless spending, living beyond means, false success.
+Inverted, The Ten of Pentacles represents fleeting success, lack of stability, lack of resources.
+Inverted, The Page of Pentacles represents lack of commitment, greediness, laziness.
+Inverted, The Knight of Pentacles represents laziness, obsessiveness, work without reward.
+Inverted, The Queen of Pentacles represents centeredness, jealousy, smothering.
+Inverted, The King of Pentacles represents greed, indulgence, sensuality.
+Inverted, The Ace of Swords represents confusion, brutality, chaos.
+Inverted, The Two of Swords represents the lesser of two evils, no right choice, confusion.
+Inverted, The Three of Swords represents recovery, forgiveness, moving on.
+Inverted, The Four of Swords represents restlessness, burnout, stress.
+Inverted, The Five of Swords represents lingering resentment, desire to reconcile, forgiveness.
+Inverted, The Six of Swords represents emotional baggage, unresolved issues, resisting transition.
+Inverted, The Seven of Swords represents coming clean, rethinking approaches, deception.
+Inverted, The Eight of Swords represents self acceptance, new perspective, freedom.
+Inverted, The Nine of Swords represents hope, reaching out, despair.
+Inverted, The Ten of Swords represents something can't get worse, only upwards, inevitable end.
+Inverted, The Page of Swords represents deception, manipulation, all talk.
+Inverted, The Knight of Swords represents no direction, disregard for consequences, unpredictability.
+Inverted, The Queen of Swords represents cold heartedness, cruelty, bitterness.
+Inverted, The King of Swords represents manipulation, cruelty, weakness.
+Inverted, The Ace of Wands represents lack of energy, lack of passion, boredom.
+Inverted, The Two of Wands represents fear of change, playing it safe, bad planning.
+Inverted, The Three of Wands represents obstacles, delays, frustration.
+Inverted, The Four of Wands represents lack of support, transience, home conflicts.
+Inverted, The Five of Wands represents avoiding conflict, respecting differences.
+Inverted, The Six of Wands represents excess pride, lack of recognition, punishment.
+Inverted, The Seven of Wands represents giving up, destroyed confidence, overwhelmed.
+Inverted, The Eight of Wands represents panic, waiting, slowing down.
+Inverted, The Nine of Wands represents exhaustion, fatigue, questioning motivations.
+Inverted, The Ten of Wands represents inability to delegate, being overstressed, burnt out.
+Inverted, The Page of Wands represents lack of direction, procrastination, creating conflict.
+Inverted, The Knight of Wands represents anger, impulsiveness, recklessness.
+Inverted, The Queen of Wands represents selfishness, jealousy, insecurities.
+Inverted, The King of Wands represents impulsiveness, overbearingness, unachievable expectations.

@@ -1,0 +1,78 @@
+The Fool represents innocence, new beginnings, and a free spirit.
+The Magician represents willpower, desire, creation, manifestation.
+The High Priestess represents intuitive, unconscious, inner voice.
+The Empress represents motherhood, fertility, nature.
+The Emperor represents authority, structure, control, fatherhood.
+The Heirophant represents tradition, conformity, morality, ethics.
+The Lovers represent tradition, conformity, morality, ethics.
+The Chariot represents direction, control, willpower.
+Strength represents inner strength, bravery, compassion, focus.
+The Hermit represents contemplation, search for truth, inner guidance.
+The Wheel of Fortune represents change, cycles, inevitable fate.
+Justice represents cause and effect, clarity, truth.
+The Hanged Man represents sacrifice, release, martyrdom.
+Death represents the end of cycles, beginnings, change, metamorphosis.
+The Sun represents joy, success, celebration, positivity.
+The Devil represents addiction, materialism, playfulness.
+The Tower represents sudden upheaval, broken pride, disaster.
+The Star represents hope, faith, rejuvenation.
+The Moon represents unconscious, illusions, intuition.
+The Sun represents joy, success, celebration, positivity.
+Judgement represents reflection, reckoning, awakening.
+The World represents fulfillment, harmony, completion.
+The Ace of Cups represents new feelings, spirituality, intuition.
+The Two of Cups represents unity, partnership, connection.
+The Three of Cups represents friendship, community, happiness.
+The Four of Cups represents apathy, contemplation, disconnectedness.
+The Five of Cups represents loss, grief, self-pity.
+The Six of Cups represents familiarity, happy memories, healing.
+The Seven of Cups represents searching for purpose, choices, daydreaming.
+The Eight of Cups represents walking away, disillusionment, leaving behind.
+The Nine of Cups represents satisfaction, emotional stability, luxury.
+The Ten of Cups represents inner happiness, fulfillment, dreams coming true.
+The Page of Cups represents happy surprise, dreamer, sensitivity.
+The Knight of Cups represents following the heart, idealism, romance.
+The Queen of Cups represents compassion, calm, comfort.
+The King of Cups represents compassion, control, balance.
+The Ace of Pentacles represents opportunity, prosperity, new venture.
+The Two of Pentacles represents balancing decisions, priorities, adapting to change.
+The Three of Pentacles represents teamwork, collaboration, building.
+The Four of Pentacles represents conservation, frugality, security.
+The Five of Pentacles represents need, poverty, insecurity.
+The Six of Pentacles represents charity, generosity, sharing.
+The Seven of Pentacles represents hard work, perseverance, diligence.
+The Eight of Pentacles represents apprenticeship, passion, high standards.
+The Nine of Pentacles represents fruits of labor, rewards, luxury.
+The Ten of Pentacles represents legacy, culmination, inheritance.
+The Page of Pentacles represents ambition, desire, diligence.
+The Knight of Pentacles represents efficiency, hard work, responsibility.
+The Queen of Pentacles represents practicality, creature comforts, financial security.
+The King of Pentacles represents abundance, prosperity, security.
+The Ace of Swords represents breakthrough, clarity, sharp mind.
+The Two of Swords represents difficult choices, indecision, stalemate.
+The Three of Swords represents heartbreak, suffering, grief.
+The Four of Swords represents rest, restoration, contemplation.
+The Five of Swords represents unbridled ambition, winning at all costs, sneakiness.
+The Six of Swords represents transition, leaving behind, moving on.
+The Seven of Swords represents deception, trickery, tactics and strategy.
+The Eight of Swords represents imprisonment, entrapment, self-victimization.
+The Nine of Swords represents anxiety, hopelessness, trauma.
+The Ten of Swords represents failure, collapse, defeat.
+The Page of Swords represents curiosity, restlessness, mental energy.
+The Knight of Swords represents action, impulsiveness, defending beliefs.
+The Queen of Swords represents complexity, perceptiveness, clear mindedness.
+The King of Swords represents head over heart, discipline, truth.
+The Ace of Wands represents creation, willpower, inspiration, desire.
+The Two of Wands represents planning, making decisions, leaving home.
+The Three of Wands represents looking ahead, expansion, rapid growth.
+The Four of Wands represents community, home, celebration.
+The Five of Wands represents competition, rivalry, conflict.
+The Six of Wands represents victory, success, public reward.
+The Seven of Wands represents perseverance, defensiveness, maintaining control.
+The Eight of Wands represents rapid action, movement, quick decisions.
+The Nine of Wands represents resilience, grit, last stands.
+The Ten of Wands represents accomplishment, responsibility, burdens.
+The Page of Wands represents exploration, excitement, freedom.
+The Knight of Wands represents the big picture, leadership, overcoming challenges.
+The Queen of Wands represents courage, determination, joy.
+The King of Wands represents action, adventure, fearlessness.
